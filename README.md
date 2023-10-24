@@ -4,3 +4,6 @@ Daniil Shumer
 
 
 inf153931
+
+
+Inżynieria oprogramowania
