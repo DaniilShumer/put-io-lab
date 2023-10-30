@@ -1,7 +1,7 @@
-public class HelloInt {
+public class HelloWorld {
     public static void main(String[] args){
-        System.out.print("Hello World and Hello Politechnika ");
-        int x = 10;
+        System.out.print("Hello World");
+        int x = 15;
         System.out.println(x);
     }
 }
