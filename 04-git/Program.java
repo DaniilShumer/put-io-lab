@@ -6,3 +6,4 @@ public class HelloWorld {
         System.out.println("Hello " + x);
     }
 }
+//zmiana do zadania 7

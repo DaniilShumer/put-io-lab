@@ -10,3 +10,5 @@ inf153931
 
 
 Inżynieria oprogramowania
+
+Politechnika Poznańska
