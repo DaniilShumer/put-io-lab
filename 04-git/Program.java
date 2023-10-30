@@ -1,3 +1,4 @@
+// plik program, zadanie 6
 public class HelloWorldInt {
     public static void main(String[] args){
         System.out.println("Hello World");
