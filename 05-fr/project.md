@@ -151,6 +151,6 @@ Aukcję wygrywa ten z [Kupujący](#ac2)ch, który w momencie jej zakończenia (u
 | Przypadek użycia                                  | Aukcja | Produkt | ... |
 | ------------------------------------------------- | ------ | ------- | --- |
 | UC1: Wystawienia produktu na aukcję               |    C   |    C    | ... |
-| UC2: Udział Kupującego w licytacji                |  ...   |  ...    | ... |
-| UC2: Udział Kupującego w licytacji                |  ...   |  ...    | ... |
+| UC2: Udział Kupującego w licytacji                |   RU   |   ---   | ... |
+| UC3: Zakończenie licytacji                        |    D   |   RUD   | ... |
 
