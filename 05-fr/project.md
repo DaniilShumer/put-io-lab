@@ -53,17 +53,11 @@ Osoba chcąca zakupić produkt na aukcji.
 * [UC1](#uc1): Wystawienie produktu na aukcję
 * [UC1](#uc1): Wprowadzenie informacji o produkcie i jego cenę wywoławczą
 * [UC3](#uc3): Przekazanie przedmiotu Kupującemu
-* [UC4](#uc4): Anulowanie aukcji
-* [UC5](#uc5): Przegląd historii aukcji
-* [UC7](#uc7): Zarządzanie kontem
 
 [Kupujący](#ac2)
 * [UC2](#uc2): Udział w licytacji
 * [UC3](#uc3): Wygranie/Przegranie licytacji
 * [UC3](#uc3): Dokonanie płatności Sprzedającemu
-* [UC5](#uc5): Przegląd historii aukcji
-* [UC6](#uc6): Reklamacja zakupionego produktu
-* [UC7](#uc7): Zarządzanie kontem
 
 
 ---
