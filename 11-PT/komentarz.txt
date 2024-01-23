@@ -1,0 +1,19 @@
+1.
+Kod Bazowy:
+Średnia 8354
+Przepustowość 45.5/min
+
+Usprawnienia:
+	-Eliminacja obliczania średniej dla wszystkich klientów w każdej iteracji pętli.
+	-Cache'owanie danych przed przystąpieniem do obliczeń.
+
+Zmodyfikowany Kod:
+Średnia 242
+Przepustowość 6.9/sec
+
+2.
+Dla Kodu Bazowego:
+Przepustowość 1.9/sec 
+
+Przepustowość dla 30 drukarek:
+Przepustowość 5.9/sec
